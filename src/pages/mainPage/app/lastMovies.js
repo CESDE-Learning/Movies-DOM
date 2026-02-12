@@ -1,17 +1,16 @@
-import movies from "/src/data/Movies.json";
+import { getMovies } from "./crud.js";
 
 const fatherID = document.getElementById("sliderPeliculas");
 
-lastMovies(movies);
+lastMovies(getMovies());
 
-function lastMovies(data){
-    // Only the six firts
-    const dataFilter = data.slice(0, 6);
-    fatherID.innerHTML = useGridMovies(dataFilter);
+function lastMovies(data) {
+  const dataFilter = data.toReversed().slice(0, 6);
+  fatherID.innerHTML = useGridMovies(dataFilter);
 }
 
-function useGridMovies(data){
-    return `
+function useGridMovies(data) {
+  return `
       <div class="container py-5">
         <div class="row g-4">
           ${data.map(movie => `

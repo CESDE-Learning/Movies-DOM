@@ -1,4 +1,6 @@
-import movies from "/src/data/Movies.json";
+import { getMovies } from "../pages/mainPage/app/crud.js";
+
+const movies = getMovies();
 
 const gendersSelect = document.getElementById("selectGenero");
 const searchMovieTitle = document.getElementById("inputBuscar");

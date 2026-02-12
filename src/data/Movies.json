@@ -3,7 +3,10 @@
     "title": "Inception",
     "director": "Christopher Nolan",
     "date": "2010-07-16",
-    "genders": ["Sci-Fi", "Action", "Thriller"],
+    "genders": [
+      "Ciencia Ficción",
+      "Acción"
+    ],
     "slug": "inception",
     "img": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg"
   },
@@ -11,152 +14,11 @@
     "title": "The Dark Knight",
     "director": "Christopher Nolan",
     "date": "2008-07-18",
-    "genders": ["Action", "Crime", "Drama"],
+    "genders": [
+      "Acción",
+      "Drama"
+    ],
     "slug": "the-dark-knight",
     "img": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
-  },
-  {
-    "title": "Parasite",
-    "director": "Bong Joon‑ho",
-    "date": "2019-05-30",
-    "genders": ["Drama", "Thriller", "Comedy"],
-    "slug": "parasite",
-    "img": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
-  },
-  {
-    "title": "Spirited Away",
-    "director": "Hayao Miyazaki",
-    "date": "2001-07-20",
-    "genders": ["Animation", "Fantasy", "Adventure"],
-    "slug": "spirited-away",
-    "img": "https://image.tmdb.org/t/p/w500/d4rngYY7ki6W3MNtTDpWnSJwORo.jpg"
-  },
-  {
-    "title": "Mad Max: Fury Road",
-    "director": "George Miller",
-    "date": "2015-05-15",
-    "genders": ["Action", "Adventure", "Sci-Fi"],
-    "slug": "mad-max-fury-road",
-    "img": "https://image.tmdb.org/t/p/w500/kqjL17yufvn9OVLyXYpvtyrFfak.jpg"
-  },
-  {
-    "title": "The Grand Budapest Hotel",
-    "director": "Wes Anderson",
-    "date": "2014-02-06",
-    "genders": ["Comedy", "Adventure", "Mystery"],
-    "slug": "the-grand-budapest-hotel",
-    "img": "https://image.tmdb.org/t/p/w500/qNW8KxGDFTlGA5X1MRc2PGHALHi.jpg"
-  },
-  {
-    "title": "Get Out",
-    "director": "Jordan Peele",
-    "date": "2017-02-24",
-    "genders": ["Horror", "Mystery", "Thriller"],
-    "slug": "get-out",
-    "img": "https://image.tmdb.org/t/p/w500/tEX3ugCgqRFY9AE2gKJKnoI2qtr.jpg"
-  },
-  {
-    "title": "Arrival",
-    "director": "Denis Villeneuve",
-    "date": "2016-11-11",
-    "genders": ["Drama", "Sci-Fi"],
-    "slug": "arrival",
-    "img": "https://image.tmdb.org/t/p/w500/ynUVQTAdTwRdbJv7hLyTTarj3LF.jpg"
-  },
-  {
-    "title": "Interstellar",
-    "director": "Christopher Nolan",
-    "date": "2014-11-05",
-    "genders": ["Sci-Fi", "Adventure", "Drama"],
-    "slug": "interstellar",
-    "img": "https://image.tmdb.org/t/apps/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
-  },
-  {
-    "title": "1917",
-    "director": "Sam Mendes",
-    "date": "2019-12-25",
-    "genders": ["War", "Drama", "Thriller"],
-    "slug": "1917",
-    "img": "https://image.tmdb.org/t/p/w500/q6W0WcFvzUTjOR2VHTLoFWFRZOL.jpg"
-  },
-  {
-    "title": "The Shape of Water",
-    "director": "Guillermo del Toro",
-    "date": "2017-12-01",
-    "genders": ["Romance", "Drama", "Fantasy"],
-    "slug": "the-shape-of-water",
-    "img": "https://image.tmdb.org/t/p/w500/hXWBc0ioZPaoRagOHYJgyattGu0.jpg"
-  },
-  {
-    "title": "Spider-Man: Into the Spider-Verse",
-    "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
-    "date": "2018-12-14",
-    "genders": ["Animation", "Action", "Adventure", "Sci-Fi"],
-    "slug": "into-the-spider-verse",
-    "img": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
-  },
-  {
-    "title": "Moonlight",
-    "director": "Barry Jenkins",
-    "date": "2016-10-21",
-    "genders": ["Drama"],
-    "slug": "moonlight",
-    "img": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuyPR14eMHoQn6PYUGX.jpg"
-  },
-  {
-    "title": "Joker",
-    "director": "Todd Phillips",
-    "date": "2019-10-04",
-    "genders": ["Crime", "Drama", "Thriller"],
-    "slug": "joker",
-    "img": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
-  },
-  {
-    "title": "The Irishman",
-    "director": "Martin Scorsese",
-    "date": "2019-09-27",
-    "genders": ["Crime", "Drama"],
-    "slug": "the-irishman",
-    "img": "https://image.tmdb.org/t/p/w500/vODkLRemTFJ46pBoCGHLJcXaDBC.jpg"
-  },
-  {
-    "title": "Knives Out",
-    "director": "Rian Johnson",
-    "date": "2019-11-27",
-    "genders": ["Mystery", "Comedy", "Thriller"],
-    "slug": "knives-out",
-    "img": "https://image.tmdb.org/t/p/w500/vfEHsAMpgXwpyCoUmxWYUeoYjoc.jpg"
-  },
-  {
-    "title": "Tenet",
-    "director": "Christopher Nolan",
-    "date": "2020-08-26",
-    "genders": ["Sci-Fi", "Action", "Thriller"],
-    "slug": "tenet",
-    "img": "https://image.tmdb.org/t/p/w500/k68nPLbIST6NP96JmTxmZijEvCA.jpg"
-  },
-  {
-    "title": "Black Panther",
-    "director": "Ryan Coogler",
-    "date": "2018-02-16",
-    "genders": ["Action", "Adventure", "Sci-Fi"],
-    "slug": "black-panther",
-    "img": "https://image.tmdb.org/t/p/w500/svIDTNUoajS5dhlJ51b3o0UcWrn.jpg"
-  },
-  {
-    "title": "Dune",
-    "director": "Denis Villeneuve",
-    "date": "2021-09-15",
-    "genders": ["Sci-Fi", "Adventure"],
-    "slug": "dune",
-    "img": "https://image.tmdb.org/t/p/w500/d5NXSklXo0ryzR9CmG694XWjXoj.jpg"
-  },
-  {
-    "title": "Soul",
-    "director": "Pete Docter, Kemp Powers",
-    "date": "2020-12-25",
-    "genders": ["Animation", "Comedy", "Drama", "Fantasy"],
-    "slug": "soul",
-    "img": "https://image.tmdb.org/t/p/w500/fwhrtIs17kTqwxcn-xwN4ejCSvk.jpg"
   }
 ]

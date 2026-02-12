@@ -1,7 +1,9 @@
 body {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    background-image: url(https://www.teahub.io/photos/full/102-1021869_cine-wallpaper.jpg);
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.85) 0%, rgba(118, 75, 162, 0.85) 100%),
+        url(https://www.teahub.io/photos/full/102-1021869_cine-wallpaper.jpg);
     background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
     min-height: 100vh;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -13,6 +15,8 @@ body {
     align-items: center;
     min-height: calc(100vh - 56px);
     padding: 20px;
+    position: relative;
+    z-index: 5;
 }
 
 .login-card {
@@ -397,6 +401,7 @@ body {
         opacity: 0;
         transform: translateY(10px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
