@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "date": "2010-07-16",
+    "genders": [
+      "Ciencia Ficción",
+      "Acción"
+    ],
+    "slug": "inception",
+    "img": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "date": "2008-07-18",
+    "genders": [
+      "Acción",
+      "Drama"
+    ],
+    "slug": "the-dark-knight",
+    "img": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  }
+]
