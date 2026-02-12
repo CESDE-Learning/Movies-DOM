@@ -5,6 +5,7 @@ const fatherID = document.getElementById("sliderPeliculas");
 lastMovies(movies);
 
 function lastMovies(data){
+    // Only the six firts
     const dataFilter = data.slice(0, 6);
     fatherID.innerHTML = useGridMovies(dataFilter);
 }
